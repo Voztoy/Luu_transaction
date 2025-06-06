@@ -3,3 +3,4 @@
 RPC_URL=https://arbitrum.drpc.org
 NFT_CONTRACT=
 TO_ADDRESS=
+2. Selenium_deepseek, ato chơi chrome đăng nhập làm task
